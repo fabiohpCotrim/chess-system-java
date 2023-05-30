@@ -1,6 +1,6 @@
-### Java Completo 2023 - Programação Orientada a Objetos + projetos
+### Java Completo 2023 - Programação Orientada a Objetos + projetos 
 
-# Projeto: Sistema jogo de xadrez
+# :chess_pawn: Projeto: Sistema jogo de xadrez :chess_pawn:
 
 ## Projeto desenvolvido em aula, para aplicar e reforçar os conhecimentos aprendidos no curso. 
 
